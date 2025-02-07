@@ -9,7 +9,9 @@ and learn more about its founder, Katarzyna Smełsz.
 
 - The website's **design** is tailored not only to the specifics of the salon's activities but also **reflects the personality of its owner**. Warm, subdued colors, rounded shapes and soft animation transitions perfectly capture the warmth, empathy, elegance, and modesty of Katarzyna Smełsz.
 
-- The website **design and coding** were created by Sara Anastazja Osiecka.
+- The website's **design and development** were done by Sara Anastazja Osiecka.
+
+- Due to the commercial nature of the project, **the source code is in a private repository**.
 
 - The website launch is scheduled for **February/March 2025**.
 
