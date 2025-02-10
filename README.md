@@ -13,7 +13,7 @@ and learn more about its founder, Katarzyna Smełsz.
 
 - Due to the commercial nature of the project, **the source code is in a private repository**.
 
-- The website launch is scheduled for **February/March 2025**.
+- The website commercial launch is scheduled for **February/March 2025**.
 
 ## See "Beauty Profil" In Action
 
